@@ -1,0 +1,11 @@
+{
+  "name": "backlog-schemas",
+  "version": "1.0.0",
+  "description": "Schemas for all Backlog models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vlad.barboni@gmail.com",
+  "license": "ISC"
+}
