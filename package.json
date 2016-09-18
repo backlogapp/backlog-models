@@ -1,6 +1,6 @@
 {
   "name": "backlog-models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All models used in Backlog's MongoDB",
   "main": "lib/index.js",
   "scripts": {
